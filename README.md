@@ -1,6 +1,8 @@
 # Aplicação utilizando Java RMI
 Trabalho da disciplina de Sistemas Distribuídos - Aplicação com Java RMI - Calculadora
 
+A aplicação RMI implementada como exemplo é realmente muito simples. Trata-se de uma calculadora que recebe dois inteiros e devolve sua soma. A aplicação cliente se conectará à aplicação servidor, enviará dois valores inteiros e o servidor devolverá a soma dos valores informados. 
+
 ### Execução:
 1) Setar na variável de ambiente CLASSPATH o valor: 
 ```bash
